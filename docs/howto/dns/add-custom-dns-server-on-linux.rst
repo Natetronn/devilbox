@@ -90,6 +90,9 @@ server.
 If the Devilbox DNS server is not running, it does not affect the name resolution, because you will
 still have other entries in ``/etc/resolv.conf``.
 
+.. seealso:: 
+    * |ext_lnk_dns_manjaro_wiki_resolvconf_conf|
+    * |ext_lnk_dns_arch_wiki_openresolv|
 
 systemd-resolved
 ================
