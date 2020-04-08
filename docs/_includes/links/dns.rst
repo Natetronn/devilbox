@@ -1,9 +1,21 @@
 .. |ext_lnk_dns_archlinux_wiki_resolv_conf| raw:: html
 
-   <a target="_blank" href="https://wiki.archlinux.org/index.php/Dhcpcd#resolv.conf">
+   <a target="_blank" href="https://wiki.archlinux.org/index.php/Dhcpcd#/etc/resolv.conf">
      Archlinux Wiki: resolv.conf <img src="https://raw.githubusercontent.com/cytopia/icons/master/11x11/ext-link.png" />
    </a>
 
+.. |ext_lnk_dns_manjaro_wiki_resolvconf_conf| raw:: html
+
+   <a target="_blank" href="https://wiki.manjaro.org/index.php?title=Networking#.2Fetc.2Fresolvconf.conf">
+     Manjaro Wiki: resolvconf.conf <img src="https://raw.githubusercontent.com/cytopia/icons/master/11x11/ext-link.png" />
+   </a>
+   
+.. |ext_lnk_dns_arch_wiki_openresolv| raw:: html
+
+   <a target="_blank" href="https://wiki.archlinux.org/index.php/Openresolv">
+     Archlinux Wiki: Openresolv <img src="https://raw.githubusercontent.com/cytopia/icons/master/11x11/ext-link.png" />
+   </a>
+   
 .. |ext_lnk_wikipedia_cname| raw:: html
 
    <a target="_blank" href="https://en.wikipedia.org/wiki/CNAME_record">
